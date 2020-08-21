@@ -162,7 +162,7 @@ ul {
   padding: 50px 0 0 30px;
 }
 
-.xbox p .carbon p {
+.xbox p {
   margin: 10px 0 20px;
 }
 
@@ -177,6 +177,10 @@ ul {
 .carbon .content {
   width: 55%;
   padding: 100px 0 0 30px;
+}
+
+.carbon p {
+  margin: 10px 0 20px;
 }
 
 /* Follow */
@@ -238,6 +242,7 @@ ul {
   margin-right: 30px;
   display: flex;
   align-items: center;
+  justify-content: flex-start;
 }
 
 .footer div i {
